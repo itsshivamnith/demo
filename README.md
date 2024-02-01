@@ -1,3 +1,3 @@
 # demo
-this is first repository
-auther - shivam namdev
+this is first repository.
+Auther - shivam namdev
